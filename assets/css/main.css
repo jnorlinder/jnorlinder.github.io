@@ -29,6 +29,12 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.credits {
+	font-size: x-small;
+	text-align: center;
+	color: #8E8892;
+}
+
 body {
 	line-height: 1;
 }
